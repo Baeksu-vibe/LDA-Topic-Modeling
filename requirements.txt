@@ -1,0 +1,50 @@
+# Core web framework
+streamlit>=1.28.0
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+# Visualization libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+wordcloud>=1.9.0
+# OpenAI API
+openai>=1.0.0
+# Excel file handling
+openpyxl>=3.0.0
+# Image processing
+Pillow>=9.0.0
+# Korean text processing
+konlpy>=0.6.0
+# English text processing
+nltk>=3.7
+# Language detection
+langdetect>=1.0.9
+# Email functionality
+# smtplib (built-in)
+# email (built-in)
+
+# LDA Topic Modeling libraries
+gensim>=4.3.0
+scipy>=1.9.0
+pyLDAvis>=3.4.0
+
+# Progress bars and utilities
+tqdm>=4.64.0
+
+# HTTP requests
+requests>=2.28.0
+urllib3>=1.26.0
+
+# System and utility libraries
+# os (built-in)
+# re (built-in)
+# io (built-in)
+# base64 (built-in)
+# collections (built-in)
+# traceback (built-in)
+# hashlib (built-in)
+# pickle (built-in)
+# datetime (built-in)
+# random (built-in)
+# string (built-in)
+# tempfile (built-in)
